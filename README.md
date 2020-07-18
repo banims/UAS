@@ -1,5 +1,7 @@
 # UAS PEMROGRAMAN WEB 2
+
 KELOMPOK 6
+
 171011401469    Muhamad Ihsan Ashari
 2016142099      Muhamad Juliyanto
 171011401427    Muhammad Dinul Fikri
@@ -7,7 +9,8 @@ KELOMPOK 6
 171011401462    Muhammad Yusron
 
 Fungsi login: 
-username :	1. ihsan
+
+username :		1. ihsan
 			2. juli
 			3. dinul
 			4. saebani
